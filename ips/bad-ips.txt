@@ -562,3 +562,5 @@
 94.154.43.7      # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | port 443
 165.101.231.130  # 2026-10-04 | backfill | AbuseIPDB 100% | 1 blocks/24h | ports 443,80
 87.106.231.181   # 2026-10-04 | backfill | AbuseIPDB 100% | port 443
+34.140.146.112   # 2026-10-04 | auto | AbuseIPDB 100% | port 443
+35.246.84.153    # 2026-10-04 | auto | AbuseIPDB 95%

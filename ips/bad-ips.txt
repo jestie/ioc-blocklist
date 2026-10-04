@@ -564,3 +564,4 @@
 87.106.231.181   # 2026-10-04 | backfill | AbuseIPDB 100% | port 443
 34.140.146.112   # 2026-10-04 | auto | AbuseIPDB 100% | port 443
 35.246.84.153    # 2026-10-04 | auto | AbuseIPDB 95%
+187.17.228.218   # 2026-10-04 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 267 | 5 blocks/24h | ports 80,64203

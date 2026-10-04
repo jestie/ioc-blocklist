@@ -1,2 +1,564 @@
 193.149.180.50
 64.52.80.80
+185.220.101.47   # 2026-03-29 | backfill | AbuseIPDB 96%
+89.248.163.200   # 2026-03-30 | backfill | AbuseIPDB 100%
+80.94.95.226     # 2026-03-29 | backfill | AbuseIPDB 91%
+172.236.126.127  # 2026-03-29 | backfill | AbuseIPDB 100%
+100.28.191.174   # 2026-03-29 | backfill | AbuseIPDB 100% | port 80
+185.156.73.181   # 2026-03-29 | backfill | AbuseIPDB 100%
+67.205.153.114   # 2026-03-29 | backfill | AbuseIPDB 100%
+193.189.100.202  # 2026-03-30 | backfill | AbuseIPDB 100%
+192.42.116.15    # 2026-03-30 | backfill | AbuseIPDB 100%
+185.246.188.74   # 2026-03-30 | backfill | AbuseIPDB 100%
+185.220.101.40   # 2026-03-30 | backfill | AbuseIPDB 92%
+45.84.107.17     # 2026-03-30 | backfill | AbuseIPDB 100%
+172.212.224.40   # 2026-03-31 | backfill | AbuseIPDB 100%
+185.224.128.136  # 2026-04-06 | backfill | AbuseIPDB 100%
+23.95.186.183    # 2026-04-05 | backfill | AbuseIPDB 95%
+146.88.241.149   # 2026-04-06 | backfill | AbuseIPDB 100%
+20.193.146.159   # 2026-07-28 | backfill | AbuseIPDB 100%
+185.12.59.118    # 2026-04-14 | backfill | AbuseIPDB 100%
+174.138.87.36    # 2026-07-02 | backfill | AbuseIPDB 100%
+169.228.66.212   # 2026-07-13 | backfill | AbuseIPDB 100%
+47.251.13.59     # 2026-07-12 | backfill | AbuseIPDB 100%
+18.133.199.181   # 2026-07-01 | backfill | AbuseIPDB 100% | port 443
+94.102.49.125    # 2026-07-01 | backfill | AbuseIPDB 100%
+45.79.67.140     # 2026-07-01 | backfill | AbuseIPDB 100%
+192.248.150.180  # 2026-07-01 | backfill | AbuseIPDB 100%
+64.224.17.57     # 2026-07-01 | backfill | AbuseIPDB 100%
+193.32.162.60    # 2026-07-01 | backfill | AbuseIPDB 100%
+104.43.131.157   # 2026-07-01 | backfill | AbuseIPDB 100%
+18.221.179.104   # 2026-07-01 | backfill | AbuseIPDB 100% | port 443
+144.202.92.17    # 2026-07-01 | backfill | AbuseIPDB 100%
+107.173.182.172  # 2026-07-01 | backfill | AbuseIPDB 100%
+91.245.159.185   # 2026-07-01 | backfill | AbuseIPDB 83%
+45.155.90.56     # 2026-07-01 | backfill | AbuseIPDB 100%
+52.36.131.235    # 2026-07-01 | backfill | AbuseIPDB 100%
+191.232.233.136  # 2026-07-01 | backfill | AbuseIPDB 100%
+5.61.209.92      # 2026-07-01 | backfill | AbuseIPDB 100%
+20.55.3.241      # 2026-07-01 | backfill | AbuseIPDB 100%
+170.106.110.129  # 2026-07-01 | backfill | AbuseIPDB 100%
+79.124.49.102    # 2026-07-01 | backfill | AbuseIPDB 100%
+207.90.244.28    # 2026-07-01 | backfill | AbuseIPDB 100%
+45.153.34.87     # 2026-07-01 | backfill | AbuseIPDB 100%
+101.36.104.242   # 2026-07-01 | backfill | AbuseIPDB 100%
+20.89.19.185     # 2026-07-01 | backfill | AbuseIPDB 100%
+62.210.142.175   # 2026-07-01 | backfill | AbuseIPDB 100%
+3.227.192.235    # 2026-07-01 | backfill | AbuseIPDB 100%
+212.227.209.221  # 2026-07-02 | backfill | AbuseIPDB 100%
+160.119.71.133   # 2026-07-02 | backfill | AbuseIPDB 100%
+45.194.67.26     # 2026-07-02 | backfill | AbuseIPDB 100%
+20.46.226.34     # 2026-07-02 | backfill | AbuseIPDB 100%
+151.243.11.51    # 2026-07-02 | backfill | AbuseIPDB 100%
+213.177.179.25   # 2026-07-02 | backfill | AbuseIPDB 100%
+50.116.72.42     # 2026-07-28 | backfill | AbuseIPDB 100%
+20.65.184.116    # 2026-07-03 | backfill | AbuseIPDB 100%
+35.195.163.248   # 2026-07-03 | backfill | AbuseIPDB 100%
+192.142.28.77    # 2026-07-03 | backfill | AbuseIPDB 100%
+177.22.44.30     # 2026-07-03 | backfill | AbuseIPDB 100%
+45.205.1.246     # 2026-07-03 | backfill | AbuseIPDB 100%
+135.119.112.96   # 2026-07-03 | backfill | AbuseIPDB 100%
+45.205.1.240     # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.176     # 2026-07-12 | backfill | AbuseIPDB 80%
+162.217.100.196  # 2026-07-12 | backfill | AbuseIPDB 100%
+3.77.24.41       # 2026-07-12 | backfill | AbuseIPDB 100%
+44.247.181.228   # 2026-07-12 | backfill | AbuseIPDB 100% | port 443
+193.46.0.26      # 2026-07-12 | backfill | AbuseIPDB 100%
+52.207.196.234   # 2026-07-12 | backfill | AbuseIPDB 100%
+162.217.100.41   # 2026-07-12 | backfill | AbuseIPDB 100%
+160.119.76.64    # 2026-07-12 | backfill | AbuseIPDB 100%
+106.63.26.148    # 2026-07-12 | backfill | AbuseIPDB 100%
+51.89.199.115    # 2026-07-12 | backfill | AbuseIPDB 100%
+66.132.195.105   # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.6       # 2026-07-12 | backfill | AbuseIPDB 100%
+143.198.68.20    # 2026-07-12 | backfill | AbuseIPDB 100%
+34.31.88.250     # 2026-07-12 | backfill | AbuseIPDB 100%
+176.65.148.38    # 2026-07-12 | backfill | AbuseIPDB 100% | ports 80,443
+35.192.232.168   # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.169     # 2026-07-12 | backfill | AbuseIPDB 94%
+117.175.51.134   # 2026-07-12 | backfill | AbuseIPDB 100%
+31.132.90.3      # 2026-07-12 | backfill | AbuseIPDB 100% | port 443
+85.217.149.42    # 2026-07-12 | backfill | AbuseIPDB 100%
+184.72.64.42     # 2026-07-12 | backfill | AbuseIPDB 100%
+54.173.150.134   # 2026-07-12 | backfill | AbuseIPDB 100%
+34.228.63.53     # 2026-07-12 | backfill | AbuseIPDB 100%
+3.131.24.55      # 2026-07-12 | backfill | AbuseIPDB 100%
+34.228.60.106    # 2026-07-12 | backfill | AbuseIPDB 100%
+106.63.26.141    # 2026-07-12 | backfill | AbuseIPDB 100%
+94.154.43.254    # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.165     # 2026-07-12 | backfill | AbuseIPDB 100%
+83.168.106.26    # 2026-07-12 | backfill | AbuseIPDB 100%
+34.91.119.153    # 2026-07-12 | backfill | AbuseIPDB 100%
+207.90.244.14    # 2026-07-12 | backfill | AbuseIPDB 100%
+35.246.99.101    # 2026-07-12 | backfill | AbuseIPDB 100%
+185.247.137.204  # 2026-07-12 | backfill | AbuseIPDB 100%
+54.144.112.202   # 2026-07-12 | backfill | AbuseIPDB 100% | port 443
+106.63.26.29     # 2026-07-12 | backfill | AbuseIPDB 100%
+104.244.79.113   # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.69      # 2026-07-12 | backfill | AbuseIPDB 100%
+43.130.9.111     # 2026-07-12 | backfill | AbuseIPDB 100%
+135.237.126.135  # 2026-07-12 | backfill | AbuseIPDB 100%
+138.68.153.47    # 2026-07-12 | backfill | AbuseIPDB 100%
+193.46.0.232     # 2026-07-12 | backfill | AbuseIPDB 100%
+92.63.197.197    # 2026-07-12 | backfill | AbuseIPDB 100%
+64.62.156.126    # 2026-07-13 | backfill | AbuseIPDB 100%
+64.62.156.122    # 2026-07-13 | backfill | AbuseIPDB 100%
+130.49.181.91    # 2026-07-13 | backfill | AbuseIPDB 100%
+193.46.0.156     # 2026-07-13 | backfill | AbuseIPDB 100%
+89.248.173.188   # 2026-07-13 | backfill | AbuseIPDB 100%
+89.248.173.217   # 2026-07-13 | backfill | AbuseIPDB 100%
+199.30.231.6     # 2026-07-13 | backfill | AbuseIPDB 100%
+193.46.0.229     # 2026-07-13 | backfill | AbuseIPDB 100%
+34.62.168.222    # 2026-07-13 | backfill | AbuseIPDB 82%
+20.65.193.226    # 2026-07-13 | backfill | AbuseIPDB 100%
+107.173.37.138   # 2026-07-13 | backfill | AbuseIPDB 100%
+159.203.44.105   # 2026-07-13 | backfill | AbuseIPDB 100%
+135.237.127.190  # 2026-07-13 | backfill | AbuseIPDB 100%
+31.76.41.174     # 2026-07-13 | backfill | AbuseIPDB 100%
+103.203.57.3     # 2026-07-13 | backfill | AbuseIPDB 100%
+193.46.0.219     # 2026-07-13 | backfill | AbuseIPDB 99%
+176.120.22.123   # 2026-07-13 | backfill | AbuseIPDB 100%
+45.79.190.10     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.12.59.117    # 2026-07-13 | backfill | AbuseIPDB 100%
+193.46.0.52      # 2026-07-13 | backfill | AbuseIPDB 99%
+71.6.232.28      # 2026-07-13 | backfill | AbuseIPDB 100%
+64.62.197.108    # 2026-07-13 | backfill | AbuseIPDB 100%
+20.127.219.109   # 2026-07-13 | backfill | AbuseIPDB 100%
+194.88.98.119    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.90    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.4     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.19   # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.9     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.30   # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.26   # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.6     # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.10    # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.23   # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.5     # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.36    # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.16   # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.11    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.6     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.7    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.8     # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.8     # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.17    # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.18   # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.20    # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.15    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.37    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.31    # 2026-07-13 | backfill | AbuseIPDB 100%
+87.236.176.3     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.3    # 2026-07-13 | backfill | AbuseIPDB 100%
+195.96.139.9     # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.27   # 2026-07-13 | backfill | AbuseIPDB 100%
+185.247.137.24   # 2026-07-13 | backfill | AbuseIPDB 100%
+46.137.229.175   # 2026-07-14 | backfill | AbuseIPDB 100%
+47.84.108.0      # 2026-07-14 | backfill | AbuseIPDB 100%
+20.14.94.72      # 2026-07-14 | backfill | AbuseIPDB 100%
+195.184.76.107   # 2026-07-14 | backfill | AbuseIPDB 100%
+65.49.1.230      # 2026-07-14 | backfill | AbuseIPDB 100%
+101.47.8.187     # 2026-07-14 | backfill | AbuseIPDB 100%
+193.46.0.131     # 2026-07-14 | backfill | AbuseIPDB 100%
+43.153.86.78     # 2026-07-14 | backfill | AbuseIPDB 100%
+23.128.100.245   # 2026-07-14 | backfill | AbuseIPDB 92%
+66.132.172.39    # 2026-07-14 | backfill | AbuseIPDB 100%
+94.74.104.89     # 2026-07-14 | backfill | AbuseIPDB 100%
+103.124.137.137  # 2026-07-14 | backfill | AbuseIPDB 89%
+40.124.175.60    # 2026-07-14 | backfill | AbuseIPDB 100%
+49.143.129.24    # 2026-07-14 | backfill | AbuseIPDB 100%
+138.68.70.132    # 2026-07-14 | backfill | AbuseIPDB 100%
+156.240.121.205  # 2026-07-14 | backfill | AbuseIPDB 100%
+45.148.10.64     # 2026-07-14 | backfill | AbuseIPDB 100%
+40.119.24.130    # 2026-07-14 | backfill | AbuseIPDB 100%
+203.55.131.3     # 2026-07-14 | backfill | AbuseIPDB 100%
+193.46.0.174     # 2026-07-14 | backfill | AbuseIPDB 100%
+52.180.137.70    # 2026-07-14 | backfill | AbuseIPDB 100%
+193.37.69.113    # 2026-07-14 | backfill | AbuseIPDB 100%
+185.242.226.70   # 2026-07-14 | backfill | AbuseIPDB 100%
+20.118.217.143   # 2026-07-14 | backfill | AbuseIPDB 100%
+85.217.149.15    # 2026-07-14 | backfill | AbuseIPDB 100%
+71.6.199.87      # 2026-07-14 | backfill | AbuseIPDB 100%
+20.65.195.48     # 2026-07-15 | backfill | AbuseIPDB 100%
+35.187.36.213    # 2026-07-15 | backfill | AbuseIPDB 100%
+80.87.206.20     # 2026-07-15 | backfill | AbuseIPDB 100%
+45.148.10.238    # 2026-07-15 | backfill | AbuseIPDB 100%
+172.203.225.221  # 2026-07-15 | backfill | AbuseIPDB 100%
+141.98.83.48     # 2026-07-15 | backfill | AbuseIPDB 100%
+69.5.169.79      # 2026-07-15 | backfill | AbuseIPDB 100%
+152.53.148.66    # 2026-07-16 | backfill | AbuseIPDB 100%
+89.45.6.206      # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.100  # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.92   # 2026-07-16 | backfill | AbuseIPDB 100%
+195.96.139.121   # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.99    # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.124  # 2026-07-16 | backfill | AbuseIPDB 100%
+64.227.108.146   # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.105  # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.110  # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.91   # 2026-07-16 | backfill | AbuseIPDB 100%
+195.96.139.130   # 2026-07-16 | backfill | AbuseIPDB 100%
+45.55.185.224    # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.107   # 2026-07-16 | backfill | AbuseIPDB 100%
+195.96.139.113   # 2026-07-16 | backfill | AbuseIPDB 100%
+45.55.186.92     # 2026-07-16 | backfill | AbuseIPDB 100%
+128.199.8.140    # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.88   # 2026-07-16 | backfill | AbuseIPDB 100%
+157.245.243.118  # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.101   # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.85    # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.74    # 2026-07-16 | backfill | AbuseIPDB 100%
+162.243.116.182  # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.89    # 2026-07-16 | backfill | AbuseIPDB 100%
+167.99.234.119   # 2026-07-16 | backfill | AbuseIPDB 100%
+80.94.95.211     # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.7     # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.35   # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.4    # 2026-07-16 | backfill | AbuseIPDB 100%
+87.236.176.12    # 2026-07-16 | backfill | AbuseIPDB 100%
+8.211.25.7       # 2026-07-16 | backfill | AbuseIPDB 100%
+181.10.144.116   # 2026-07-16 | backfill | AbuseIPDB 100%
+2.27.5.67        # 2026-07-16 | backfill | AbuseIPDB 100%
+185.242.3.153    # 2026-07-16 | backfill | AbuseIPDB 100%
+66.132.224.24    # 2026-07-16 | backfill | AbuseIPDB 100%
+66.132.224.88    # 2026-07-16 | backfill | AbuseIPDB 100%
+185.247.137.138  # 2026-07-16 | backfill | AbuseIPDB 100%
+172.105.8.31     # 2026-07-16 | backfill | AbuseIPDB 100%
+66.228.47.92     # 2026-07-16 | backfill | AbuseIPDB 100%
+65.49.1.145      # 2026-07-16 | backfill | AbuseIPDB 100%
+65.49.1.142      # 2026-07-16 | backfill | AbuseIPDB 100%
+13.68.155.2      # 2026-07-16 | backfill | AbuseIPDB 100%
+193.46.0.149     # 2026-07-16 | backfill | AbuseIPDB 100%
+20.83.167.20     # 2026-07-16 | backfill | AbuseIPDB 100%
+43.164.190.124   # 2026-07-17 | backfill | AbuseIPDB 100%
+77.83.39.94      # 2026-07-17 | backfill | AbuseIPDB 100%
+92.118.39.57     # 2026-07-17 | backfill | AbuseIPDB 100%
+65.49.1.241      # 2026-07-17 | backfill | AbuseIPDB 100%
+20.40.217.42     # 2026-07-17 | backfill | AbuseIPDB 100%
+193.46.0.126     # 2026-07-17 | backfill | AbuseIPDB 100%
+151.217.4.39     # 2026-07-17 | backfill | AbuseIPDB 100%
+52.21.227.35     # 2026-07-17 | backfill | AbuseIPDB 100%
+94.154.43.64     # 2026-07-17 | backfill | AbuseIPDB 100%
+74.82.47.8       # 2026-07-17 | backfill | AbuseIPDB 100%
+69.5.169.193     # 2026-07-17 | backfill | AbuseIPDB 100%
+34.208.194.230   # 2026-07-17 | backfill | AbuseIPDB 100% | port 443
+85.217.149.30    # 2026-07-17 | backfill | AbuseIPDB 100%
+8.216.13.97      # 2026-07-17 | backfill | AbuseIPDB 100%
+91.231.89.90     # 2026-07-17 | backfill | AbuseIPDB 100% | port 443
+91.230.168.218   # 2026-07-17 | backfill | AbuseIPDB 100% | port 443
+34.65.62.43      # 2026-07-17 | backfill | AbuseIPDB 100%
+94.154.43.140    # 2026-07-17 | backfill | AbuseIPDB 100%
+43.157.170.13    # 2026-07-17 | backfill | AbuseIPDB 100%
+193.46.0.154     # 2026-07-17 | backfill | AbuseIPDB 100%
+40.124.173.235   # 2026-07-17 | backfill | AbuseIPDB 100%
+2.57.17.254      # 2026-07-17 | backfill | AbuseIPDB 100%
+164.90.182.226   # 2026-07-20 | backfill | AbuseIPDB 100%
+213.209.159.154  # 2026-07-27 | backfill | AbuseIPDB 100%
+66.132.186.163   # 2026-08-13 | backfill | AbuseIPDB 100%
+2.144.22.46      # 2026-07-28 | backfill | AbuseIPDB 100%
+5.182.209.113    # 2026-07-27 | backfill | AbuseIPDB 100%
+18.143.235.216   # 2026-07-28 | backfill | AbuseIPDB 100%
+2.27.248.209     # 2026-07-28 | backfill | AbuseIPDB 100%
+172.110.223.73   # 2026-07-30 | backfill | AbuseIPDB 100%
+59.62.46.23      # 2026-08-13 | backfill | AbuseIPDB 100%
+66.132.195.66    # 2026-08-13 | backfill | AbuseIPDB 100%
+216.226.77.20    # 2026-08-13 | backfill | AbuseIPDB 100%
+195.178.110.223  # 2026-07-28 | backfill | AbuseIPDB 100%
+85.11.167.203    # 2026-07-28 | backfill | AbuseIPDB 100%
+102.37.22.98     # 2026-07-27 | backfill | AbuseIPDB 100%
+193.46.0.78      # 2026-07-28 | backfill | AbuseIPDB 100%
+115.84.178.56    # 2026-07-30 | backfill | AbuseIPDB 100%
+94.154.43.5      # 2026-07-27 | backfill | AbuseIPDB 100%
+142.93.10.254    # 2026-07-27 | backfill | AbuseIPDB 100%
+15.157.122.50    # 2026-07-27 | backfill | AbuseIPDB 100%
+20.163.32.78     # 2026-07-27 | backfill | AbuseIPDB 100%
+193.46.0.188     # 2026-07-28 | backfill | AbuseIPDB 100%
+68.178.167.214   # 2026-07-28 | backfill | AbuseIPDB 100%
+64.225.75.246    # 2026-07-28 | backfill | AbuseIPDB 100%
+167.71.175.236   # 2026-07-27 | backfill | AbuseIPDB 100%
+64.89.161.82     # 2026-07-27 | backfill | AbuseIPDB 100%
+81.171.74.60     # 2026-07-27 | backfill | AbuseIPDB 100%
+43.228.157.191   # 2026-07-27 | backfill | AbuseIPDB 100%
+80.94.92.70      # 2026-07-27 | backfill | AbuseIPDB 100%
+34.13.8.115      # 2026-07-27 | backfill | AbuseIPDB 100%
+43.228.157.197   # 2026-07-27 | backfill | AbuseIPDB 100%
+194.164.107.5    # 2026-07-27 | backfill | AbuseIPDB 100%
+91.92.40.17      # 2026-07-28 | backfill | AbuseIPDB 100%
+178.105.14.254   # 2026-07-27 | backfill | AbuseIPDB 100%
+52.165.196.84    # 2026-07-27 | backfill | AbuseIPDB 100%
+202.78.167.208   # 2026-07-27 | backfill | AbuseIPDB 100%
+80.94.92.18      # 2026-07-28 | backfill | AbuseIPDB 83%
+34.139.141.56    # 2026-07-28 | backfill | AbuseIPDB 100%
+193.46.0.117     # 2026-07-28 | backfill | AbuseIPDB 100%
+43.153.47.201    # 2026-07-27 | backfill | AbuseIPDB 100%
+5.61.209.44      # 2026-07-27 | backfill | AbuseIPDB 100%
+64.62.156.158    # 2026-07-27 | backfill | AbuseIPDB 100%
+64.188.4.200     # 2026-07-28 | backfill | AbuseIPDB 93%
+94.154.43.185    # 2026-07-27 | backfill | AbuseIPDB 100%
+172.203.234.251  # 2026-07-27 | backfill | AbuseIPDB 100%
+94.154.43.36     # 2026-07-27 | backfill | AbuseIPDB 100%
+193.46.0.142     # 2026-07-28 | backfill | AbuseIPDB 100%
+203.55.131.4     # 2026-07-27 | backfill | AbuseIPDB 100%
+212.156.70.154   # 2026-07-28 | backfill | AbuseIPDB 100%
+69.5.169.111     # 2026-07-27 | backfill | AbuseIPDB 100% | port 80
+85.217.149.59    # 2026-07-28 | backfill | AbuseIPDB 100%
+139.135.44.115   # 2026-07-28 | backfill | AbuseIPDB 81%
+203.55.131.5     # 2026-07-28 | backfill | AbuseIPDB 100%
+62.210.142.163   # 2026-07-28 | backfill | AbuseIPDB 100%
+71.6.134.233     # 2026-07-28 | backfill | AbuseIPDB 100%
+167.250.202.30   # 2026-07-28 | backfill | AbuseIPDB 100%
+20.197.178.120   # 2026-07-28 | backfill | AbuseIPDB 100%
+139.227.100.253  # 2026-07-28 | backfill | AbuseIPDB 100%
+20.169.91.42     # 2026-07-28 | backfill | AbuseIPDB 100%
+13.72.110.24     # 2026-07-28 | backfill | AbuseIPDB 100%
+193.46.0.130     # 2026-07-28 | backfill | AbuseIPDB 100%
+35.195.85.33     # 2026-07-28 | backfill | AbuseIPDB 100%
+20.65.138.97     # 2026-07-28 | backfill | AbuseIPDB 100%
+34.140.18.130    # 2026-07-28 | backfill | AbuseIPDB 100%
+34.140.101.189   # 2026-07-28 | backfill | AbuseIPDB 100%
+64.62.156.141    # 2026-07-28 | backfill | AbuseIPDB 100%
+45.79.152.168    # 2026-07-28 | backfill | AbuseIPDB 100%
+35.202.9.133     # 2026-07-28 | backfill | AbuseIPDB 100% | port 443
+62.60.130.235    # 2026-07-28 | backfill | AbuseIPDB 100%
+193.46.0.162     # 2026-07-28 | backfill | AbuseIPDB 100%
+51.38.12.21      # 2026-07-28 | backfill | AbuseIPDB 100%
+20.65.194.28     # 2026-07-28 | backfill | AbuseIPDB 100%
+176.65.132.53    # 2026-07-28 | backfill | AbuseIPDB 100%
+49.51.72.76      # 2026-07-28 | backfill | AbuseIPDB 100%
+94.102.49.193    # 2026-07-28 | backfill | AbuseIPDB 100%
+20.65.193.105    # 2026-07-28 | backfill | AbuseIPDB 100%
+45.198.224.59    # 2026-07-28 | backfill | AbuseIPDB 100% | port 443
+111.33.71.238    # 2026-07-28 | backfill | AbuseIPDB 100%
+94.154.43.51     # 2026-07-28 | backfill | AbuseIPDB 100%
+69.5.169.162     # 2026-07-28 | backfill | AbuseIPDB 100%
+193.46.0.140     # 2026-07-28 | backfill | AbuseIPDB 100%
+77.90.185.248    # 2026-07-28 | backfill | AbuseIPDB 100%
+65.49.1.158      # 2026-07-28 | backfill | AbuseIPDB 100%
+20.98.140.180    # 2026-07-28 | backfill | AbuseIPDB 100%
+52.139.36.144    # 2026-07-28 | backfill | AbuseIPDB 100%
+43.156.228.27    # 2026-07-28 | backfill | AbuseIPDB 100%
+193.46.0.143     # 2026-07-28 | backfill | AbuseIPDB 100%
+20.163.15.218    # 2026-07-28 | backfill | AbuseIPDB 100%
+45.154.98.94     # 2026-07-28 | backfill | AbuseIPDB 100%
+20.151.254.105   # 2026-07-28 | backfill | AbuseIPDB 100%
+47.251.46.207    # 2026-07-28 | backfill | AbuseIPDB 100%
+149.50.96.188    # 2026-07-28 | backfill | AbuseIPDB 100%
+66.132.224.89    # 2026-07-28 | backfill | AbuseIPDB 100%
+34.123.170.104   # 2026-07-28 | backfill | AbuseIPDB 100%
+34.122.147.229   # 2026-07-28 | backfill | AbuseIPDB 100%
+104.197.69.115   # 2026-07-28 | backfill | AbuseIPDB 100%
+118.193.45.235   # 2026-07-28 | backfill | AbuseIPDB 100%
+4.184.121.217    # 2026-07-28 | backfill | AbuseIPDB 100%
+85.11.167.19     # 2026-07-28 | backfill | AbuseIPDB 100%
+216.73.216.141   # 2026-07-28 | backfill | AbuseIPDB 100%
+66.132.186.207   # 2026-07-28 | backfill | AbuseIPDB 100%
+96.126.98.168    # 2026-07-28 | backfill | AbuseIPDB 100%
+205.169.39.3     # 2026-07-28 | backfill | AbuseIPDB 100%
+103.203.56.0     # 2026-07-28 | backfill | AbuseIPDB 100%
+31.77.227.111    # 2026-07-28 | backfill | AbuseIPDB 100%
+45.154.98.108    # 2026-07-28 | backfill | AbuseIPDB 100%
+84.32.70.207     # 2026-07-28 | backfill | AbuseIPDB 100%
+49.51.72.236     # 2026-07-28 | backfill | AbuseIPDB 100%
+66.132.195.95    # 2026-07-28 | backfill | AbuseIPDB 100%
+193.163.125.246  # 2026-07-28 | backfill | AbuseIPDB 100%
+169.58.33.230    # 2026-07-29 | backfill | AbuseIPDB 100%
+172.213.17.107   # 2026-07-29 | backfill | AbuseIPDB 100%
+43.162.114.69    # 2026-07-29 | backfill | AbuseIPDB 100%
+43.228.157.102   # 2026-07-29 | backfill | AbuseIPDB 100%
+194.187.176.119  # 2026-07-29 | backfill | AbuseIPDB 100%
+100.29.192.5     # 2026-07-29 | backfill | AbuseIPDB 100%
+193.163.125.6    # 2026-07-29 | backfill | AbuseIPDB 100%
+31.70.111.242    # 2026-07-29 | backfill | AbuseIPDB 100%
+18.232.121.80    # 2026-07-29 | backfill | AbuseIPDB 100%
+45.148.10.62     # 2026-07-29 | backfill | AbuseIPDB 100%
+159.89.80.50     # 2026-07-29 | backfill | AbuseIPDB 100%
+172.104.105.194  # 2026-10-04 | backfill | AbuseIPDB 100% | port 443
+193.24.211.239   # 2026-07-30 | backfill | AbuseIPDB 100%
+130.211.54.63    # 2026-07-30 | backfill | AbuseIPDB 100%
+43.161.234.148   # 2026-07-30 | backfill | AbuseIPDB 100%
+34.62.107.144    # 2026-07-30 | backfill | AbuseIPDB 100%
+172.202.117.221  # 2026-07-30 | backfill | AbuseIPDB 100%
+20.226.90.242    # 2026-07-30 | backfill | AbuseIPDB 100%
+47.254.201.193   # 2026-07-30 | backfill | AbuseIPDB 100%
+47.130.108.237   # 2026-07-30 | backfill | AbuseIPDB 100%
+20.9.4.9         # 2026-07-30 | backfill | AbuseIPDB 100%
+4.184.185.91     # 2026-07-30 | backfill | AbuseIPDB 100%
+20.64.106.117    # 2026-07-30 | backfill | AbuseIPDB 100%
+43.164.194.198   # 2026-07-30 | backfill | AbuseIPDB 100%
+20.163.15.166    # 2026-07-30 | backfill | AbuseIPDB 100%
+152.89.170.226   # 2026-07-30 | backfill | AbuseIPDB 100%
+135.237.125.160  # 2026-07-30 | backfill | AbuseIPDB 100%
+85.217.149.5     # 2026-07-30 | backfill | AbuseIPDB 100%
+20.65.193.234    # 2026-07-30 | backfill | AbuseIPDB 100%
+69.5.169.40      # 2026-07-30 | backfill | AbuseIPDB 100% | port 80
+196.245.52.130   # 2026-07-30 | backfill | AbuseIPDB 100%
+47.84.184.133    # 2026-07-30 | backfill | AbuseIPDB 100%
+151.243.11.230   # 2026-07-30 | backfill | AbuseIPDB 100%
+47.84.143.141    # 2026-07-30 | backfill | AbuseIPDB 100%
+66.132.186.252   # 2026-07-30 | backfill | AbuseIPDB 100%
+85.217.149.62    # 2026-07-30 | backfill | AbuseIPDB 100%
+185.242.3.160    # 2026-07-30 | backfill | AbuseIPDB 100%
+144.172.105.5    # 2026-07-30 | backfill | AbuseIPDB 100%
+45.205.1.131     # 2026-08-11 | backfill | AbuseIPDB 100%
+43.165.167.72    # 2026-08-11 | backfill | AbuseIPDB 100% | port 80
+134.122.106.248  # 2026-08-11 | backfill | AbuseIPDB 100%
+45.205.1.122     # 2026-08-11 | backfill | AbuseIPDB 100%
+20.15.162.238    # 2026-08-11 | backfill | AbuseIPDB 100%
+40.124.117.126   # 2026-08-11 | backfill | AbuseIPDB 100%
+89.190.156.12    # 2026-08-11 | backfill | AbuseIPDB 100%
+20.64.105.230    # 2026-08-11 | backfill | AbuseIPDB 100%
+45.194.92.40     # 2026-08-11 | backfill | AbuseIPDB 100%
+135.237.126.218  # 2026-08-11 | backfill | AbuseIPDB 100%
+194.180.49.37    # 2026-08-11 | backfill | AbuseIPDB 100%
+64.62.156.199    # 2026-08-11 | backfill | AbuseIPDB 100%
+64.62.156.192    # 2026-08-11 | backfill | AbuseIPDB 100%
+20.193.226.228   # 2026-08-11 | backfill | AbuseIPDB 100%
+43.153.15.51     # 2026-08-11 | backfill | AbuseIPDB 100%
+172.213.208.13   # 2026-08-11 | backfill | AbuseIPDB 100%
+93.152.224.9     # 2026-08-11 | backfill | AbuseIPDB 100%
+20.168.121.119   # 2026-08-11 | backfill | AbuseIPDB 100%
+159.89.126.252   # 2026-08-11 | backfill | AbuseIPDB 100%
+103.252.221.157  # 2026-08-11 | backfill | AbuseIPDB 100%
+64.227.121.55    # 2026-08-11 | backfill | AbuseIPDB 100%
+194.62.122.254   # 2026-08-11 | backfill | AbuseIPDB 100%
+45.151.91.4      # 2026-08-11 | backfill | AbuseIPDB 100%
+147.45.41.132    # 2026-08-11 | backfill | AbuseIPDB 100%
+85.217.149.43    # 2026-08-11 | backfill | AbuseIPDB 100%
+216.249.99.43    # 2026-08-11 | backfill | AbuseIPDB 100%
+204.76.203.7     # 2026-08-11 | backfill | AbuseIPDB 100%
+193.163.125.219  # 2026-08-11 | backfill | AbuseIPDB 100%
+43.163.80.48     # 2026-10-04 | backfill | AbuseIPDB 100%
+45.205.1.245     # 2026-08-11 | backfill | AbuseIPDB 100%
+45.148.10.125    # 2026-08-14 | backfill | AbuseIPDB 100%
+169.58.152.84    # 2026-08-13 | backfill | AbuseIPDB 83%
+66.132.172.134   # 2026-08-13 | backfill | AbuseIPDB 100%
+18.135.40.118    # 2026-08-13 | backfill | AbuseIPDB 100%
+20.110.140.87    # 2026-08-13 | backfill | AbuseIPDB 100%
+47.251.191.44    # 2026-08-13 | backfill | AbuseIPDB 100%
+43.98.171.38     # 2026-08-13 | backfill | AbuseIPDB 100%
+66.132.195.94    # 2026-08-13 | backfill | AbuseIPDB 100%
+66.132.195.35    # 2026-08-13 | backfill | AbuseIPDB 100%
+84.32.70.204     # 2026-08-13 | backfill | AbuseIPDB 100%
+66.132.172.38    # 2026-08-13 | backfill | AbuseIPDB 100%
+193.46.218.239   # 2026-08-13 | backfill | AbuseIPDB 100%
+172.174.236.56   # 2026-08-13 | backfill | AbuseIPDB 100%
+193.176.29.13    # 2026-08-13 | backfill | AbuseIPDB 100%
+20.64.96.205     # 2026-08-13 | backfill | AbuseIPDB 100%
+20.218.66.54     # 2026-08-13 | backfill | AbuseIPDB 100%
+79.124.49.90     # 2026-08-13 | backfill | AbuseIPDB 100%
+35.194.83.168    # 2026-08-13 | backfill | AbuseIPDB 82%
+35.241.211.215   # 2026-08-13 | backfill | AbuseIPDB 100%
+43.173.1.57      # 2026-08-13 | backfill | AbuseIPDB 100%
+103.244.227.48   # 2026-08-13 | backfill | AbuseIPDB 100%
+91.92.40.175     # 2026-08-13 | backfill | AbuseIPDB 100%
+185.29.10.10     # 2026-08-13 | backfill | AbuseIPDB 78%
+185.73.23.162    # 2026-08-13 | backfill | AbuseIPDB 100%
+85.217.140.31    # 2026-08-13 | backfill | AbuseIPDB 100%
+51.254.59.113    # 2026-08-13 | backfill | AbuseIPDB 100%
+66.132.172.101   # 2026-08-13 | backfill | AbuseIPDB 100%
+205.237.105.132  # 2026-08-13 | backfill | AbuseIPDB 100%
+151.243.11.234   # 2026-08-14 | backfill | AbuseIPDB 100%
+192.253.248.251  # 2026-08-14 | backfill | AbuseIPDB 100%
+165.227.26.149   # 2026-08-14 | backfill | AbuseIPDB 100%
+104.223.84.94    # 2026-08-14 | backfill | AbuseIPDB 100%
+195.96.139.179   # 2026-08-14 | backfill | AbuseIPDB 100%
+157.245.245.246  # 2026-08-14 | backfill | AbuseIPDB 100%
+74.82.47.10      # 2026-08-14 | backfill | AbuseIPDB 100%
+8.211.16.226     # 2026-08-14 | backfill | AbuseIPDB 100%
+124.156.204.51   # 2026-08-14 | backfill | AbuseIPDB 100%
+31.14.254.55     # 2026-08-14 | backfill | AbuseIPDB 100%
+185.200.116.35   # 2026-08-14 | backfill | AbuseIPDB 100%
+65.49.1.58       # 2026-08-14 | backfill | AbuseIPDB 100%
+20.65.194.182    # 2026-08-14 | backfill | AbuseIPDB 100%
+152.32.207.234   # 2026-08-14 | backfill | AbuseIPDB 100%
+1.2.3.4          # 2026-08-14 | backfill | AbuseIPDB 90%
+94.26.68.254     # 2026-08-14 | backfill | AbuseIPDB 82%
+23.234.97.195    # 2026-08-14 | backfill | AbuseIPDB 100%
+103.88.232.57    # 2026-09-17 | backfill | AbuseIPDB 100% | 1 blocks/24h | port 443
+172.110.223.173  # 2026-09-17 | backfill | AbuseIPDB 100% | ports 80,443
+94.154.43.60     # 2026-09-17 | backfill | AbuseIPDB 100% | ports 80,443
+87.120.104.79    # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 13 | port 443
+16.5.0.236       # 2026-09-12 | backfill | AbuseIPDB 100% | port 80
+45.135.193.159   # 2026-09-17 | backfill | AbuseIPDB 100% | ports 443,80
+89.248.172.11    # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+185.218.86.25    # 2026-09-17 | backfill | AbuseIPDB 100% | 1 blocks/24h | ports 443,80
+130.12.180.194   # 2026-09-12 | backfill | AbuseIPDB 100% | port 80
+20.80.111.71     # 2026-09-12 | backfill | AbuseIPDB 100%
+57.129.153.172   # 2026-09-12 | backfill | AbuseIPDB 100%
+66.132.195.96    # 2026-09-12 | backfill | AbuseIPDB 100%
+185.223.235.23   # 2026-09-12 | backfill | AbuseIPDB 100%
+213.209.159.20   # 2026-09-17 | backfill | AbuseIPDB 100%
+31.42.187.226    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+195.179.227.249  # 2026-09-17 | backfill | AbuseIPDB 77% | Suricata: ET EXPLOIT Apache HTTP Server 2.4.49 - Path Traversal Attempt (CVE-2021-41773) M2 | port 80
+40.118.131.195   # 2026-09-17 | backfill | AbuseIPDB 97% | port 443
+172.239.111.85   # 2026-09-17 | backfill | AbuseIPDB 93% | port 80
+34.140.47.243    # 2026-09-17 | backfill | AbuseIPDB 93% | port 80
+34.52.214.28     # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+35.240.91.88     # 2026-09-17 | backfill | AbuseIPDB 95% | port 80
+47.84.100.118    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+89.42.231.200    # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+173.230.145.106  # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+170.187.147.145  # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+34.131.248.24    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+35.187.182.21    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+16.5.0.205       # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+45.156.129.54    # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+205.169.39.46    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+20.24.86.237     # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+40.119.45.161    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+40.124.171.180   # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+193.163.125.137  # 2026-09-17 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
+47.254.47.156    # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+20.46.236.118    # 2026-09-17 | backfill | AbuseIPDB 92% | port 443
+47.88.18.115     # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+192.236.150.10   # 2026-09-17 | backfill | AbuseIPDB 100% | ports 80,443
+43.165.4.2       # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+64.34.87.5       # 2026-09-17 | backfill | AbuseIPDB 100% | ports 80,443
+66.132.186.248   # 2026-09-17 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
+66.132.172.100   # 2026-09-17 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
+193.8.186.31     # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+16.5.0.176       # 2026-09-17 | backfill | AbuseIPDB 100%
+159.89.17.75     # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+213.172.73.149   # 2026-09-17 | backfill | AbuseIPDB 100% | ports 80,443
+62.210.142.174   # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+128.14.236.128   # 2026-09-17 | backfill | AbuseIPDB 100% | port 443
+138.2.225.106    # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+72.255.32.149    # 2026-09-17 | backfill | AbuseIPDB 83%
+216.218.206.118  # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+216.218.206.66   # 2026-09-17 | backfill | AbuseIPDB 100% | port 80
+204.76.203.45    # 2026-09-18 | backfill | AbuseIPDB 100% | port 80
+199.45.154.68    # 2026-09-18 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 80
+79.124.62.218    # 2026-09-18 | backfill | AbuseIPDB 100% | port 443
+34.38.113.44     # 2026-09-18 | backfill | AbuseIPDB 100% | port 443
+94.154.46.245    # 2026-09-18 | backfill | AbuseIPDB 100% | ports 443,80
+176.65.144.71    # 2026-09-18 | backfill | AbuseIPDB 100% | ports 443,80
+104.199.46.12    # 2026-10-04 | backfill | AbuseIPDB 100%
+107.150.97.90    # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 161 | 13 blocks/24h | ports 80,443
+217.60.76.167    # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET INFO Request to Hidden Environment File - Inbound | ports 80,443
+34.62.15.114     # 2026-10-04 | backfill | AbuseIPDB 80% | Suricata: HTTP Request line incomplete | 42 blocks/24h | ports 80,5700
+34.22.145.143    # 2026-10-04 | backfill | AbuseIPDB 100%
+43.159.128.155   # 2026-10-04 | backfill | AbuseIPDB 100% | port 80
+45.156.87.209    # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic group 18 | 8 blocks/24h | port 443
+160.250.132.238  # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 223 | 12 blocks/24h | ports 80,35856
+216.218.206.71   # 2026-10-04 | backfill | AbuseIPDB 100% | port 80
+117.12.225.110   # 2026-10-04 | backfill | AbuseIPDB 100%
+178.128.152.29   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 251 | 6 blocks/24h | port 80
+104.248.220.105  # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 160 | 19 blocks/24h | ports 443,42116
+16.5.0.234       # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 17 blocks/24h | ports 80,56758
+16.216.88.191    # 2026-10-04 | backfill | AbuseIPDB 100% | port 443
+45.198.224.125   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 6 blocks/24h | ports 80,42430
+170.106.73.216   # 2026-10-04 | backfill | AbuseIPDB 100% | port 443
+170.106.165.76   # 2026-10-04 | backfill | AbuseIPDB 100%
+47.251.126.127   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 91 | 16 blocks/24h | ports 80,30672
+66.132.195.103   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 23 blocks/24h | ports 443,38438
+66.132.172.186   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 11 blocks/24h | ports 11782,443
+66.132.195.83    # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 23 blocks/24h | ports 443,64380
+2.57.122.77      # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 1 | 5 blocks/24h | ports 58537,443
+192.207.105.196  # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 266 | 7 blocks/24h | ports 61234,443
+45.198.224.124   # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 8 blocks/24h | ports 80,37432
+20.83.51.206     # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 43 | 17 blocks/24h | ports 443,42207
+193.163.125.118  # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 1 blocks/24h | port 443
+43.164.192.151   # 2026-10-04 | backfill | AbuseIPDB 100% | port 80
+94.154.43.7      # 2026-10-04 | backfill | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | port 443
+165.101.231.130  # 2026-10-04 | backfill | AbuseIPDB 100% | 1 blocks/24h | ports 443,80
+87.106.231.181   # 2026-10-04 | backfill | AbuseIPDB 100% | port 443

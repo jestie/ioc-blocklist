@@ -568,3 +568,4 @@
 207.148.97.152   # 2026-10-04 | auto | AbuseIPDB 100% | port 443
 193.46.255.155   # 2026-10-04 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 44 | 1 blocks/24h | port 443
 79.124.56.142    # 2026-10-04 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 142 | port 443
+165.22.34.189    # 2026-10-04 | auto | AbuseIPDB 100%

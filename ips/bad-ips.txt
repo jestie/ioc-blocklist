@@ -575,3 +575,5 @@
 69.5.169.217     # 2026-10-04 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 136 | port 443
 69.5.169.213     # 2026-10-04 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 136 | port 443
 20.210.128.125   # 2026-10-04 | auto | AbuseIPDB 100%
+43.164.129.191   # 2026-10-04 | auto | AbuseIPDB 100%
+78.153.140.237   # 2026-10-04 | auto | AbuseIPDB 100%

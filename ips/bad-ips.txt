@@ -577,3 +577,21 @@
 20.210.128.125   # 2026-10-04 | auto | AbuseIPDB 100%
 43.164.129.191   # 2026-10-04 | auto | AbuseIPDB 100%
 78.153.140.237   # 2026-10-04 | auto | AbuseIPDB 100%
+172.180.64.141   # 2026-10-14 | auto | AbuseIPDB 100% | port 443
+93.123.109.230   # 2026-10-14 | auto | AbuseIPDB 100%
+35.238.129.244   # 2026-10-14 | auto | AbuseIPDB 100%
+165.245.174.25   # 2026-10-14 | auto | AbuseIPDB 100% | port 443
+193.32.209.243   # 2026-10-14 | auto | AbuseIPDB 100%
+94.183.174.95    # 2026-10-14 | auto | AbuseIPDB 100%
+94.154.43.31     # 2026-10-14 | auto | AbuseIPDB 100%
+31.14.254.7      # 2026-10-14 | auto | AbuseIPDB 100%
+185.223.235.41   # 2026-10-14 | auto | AbuseIPDB 100%
+193.176.29.16    # 2026-10-14 | auto | AbuseIPDB 100%
+5.226.140.91     # 2026-10-14 | auto | AbuseIPDB 100%
+94.154.43.246    # 2026-10-14 | auto | AbuseIPDB 100%
+85.217.149.29    # 2026-10-14 | auto | AbuseIPDB 100%
+5.226.140.123    # 2026-10-14 | auto | AbuseIPDB 100%
+86.38.187.27     # 2026-10-14 | auto | AbuseIPDB 100% | port 443
+64.205.72.48     # 2026-10-14 | auto | AbuseIPDB 100% | port 443
+77.67.26.32      # 2026-10-14 | auto | AbuseIPDB 100% | port 443
+45.156.87.34     # 2026-10-14 | auto | AbuseIPDB 100% | port 443

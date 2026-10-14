@@ -597,3 +597,5 @@
 45.156.87.34     # 2026-10-14 | auto | AbuseIPDB 100% | port 443
 156.225.1.64     # 2026-10-14 | auto | AbuseIPDB 100% | port 443
 43.157.62.101    # 2026-10-14 | auto | AbuseIPDB 100% | port 80
+34.79.208.16     # 2026-10-14 | auto | AbuseIPDB 100% | port 80
+20.58.186.118    # 2026-10-14 | auto | AbuseIPDB 100%

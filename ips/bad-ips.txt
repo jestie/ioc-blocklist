@@ -615,3 +615,5 @@
 170.106.15.3     # 2026-10-16 | auto | AbuseIPDB 100% | port 80
 43.157.168.43    # 2026-10-16 | auto | AbuseIPDB 100% | port 80
 130.12.180.32    # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 | port 80
+184.105.247.211  # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+184.105.247.195  # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: (http_inspect) BARE BYTE UNICODE ENCODING | port 80

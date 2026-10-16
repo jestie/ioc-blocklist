@@ -610,3 +610,4 @@
 34.77.187.249    # 2026-10-16 | auto | AbuseIPDB 100%
 34.76.56.153     # 2026-10-16 | auto | AbuseIPDB 100%
 202.70.139.63    # 2026-10-16 | auto | AbuseIPDB 80%
+31.56.58.43      # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: ET INFO Request to Hidden Environment File - Inbound | port 80

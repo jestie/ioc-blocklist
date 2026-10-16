@@ -625,3 +625,10 @@
 43.134.15.174    # 2026-10-16 | auto | AbuseIPDB 100% | port 443
 172.190.106.37   # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 252 | 5 blocks/24h | ports 43589,80
 85.217.149.23    # 2026-10-16 | auto | AbuseIPDB 100% | port 443
+107.189.2.172    # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+185.218.86.14    # 2026-10-16 | auto | AbuseIPDB 100% | ports 443,80
+20.65.145.151    # 2026-10-16 | auto | AbuseIPDB 100% | port 443
+198.211.109.100  # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+85.120.255.179   # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+43.159.128.247   # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+51.38.12.23      # 2026-10-16 | auto | AbuseIPDB 100% | port 80

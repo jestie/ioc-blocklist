@@ -617,3 +617,4 @@
 130.12.180.32    # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 | port 80
 184.105.247.211  # 2026-10-16 | auto | AbuseIPDB 100% | port 80
 184.105.247.195  # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: (http_inspect) BARE BYTE UNICODE ENCODING | port 80
+20.29.57.70      # 2026-10-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 37 | 5 blocks/24h | ports 53595,80

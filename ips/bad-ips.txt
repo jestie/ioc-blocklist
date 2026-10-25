@@ -632,3 +632,4 @@
 85.120.255.179   # 2026-10-16 | auto | AbuseIPDB 100% | port 80
 43.159.128.247   # 2026-10-16 | auto | AbuseIPDB 100% | port 80
 51.38.12.23      # 2026-10-16 | auto | AbuseIPDB 100% | port 80
+185.177.72.13    # 2026-10-25 | manual (Jay) | WebDev .env scanner, 428 hits 2026-10-24 (Wazuh 31151)

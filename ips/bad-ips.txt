@@ -662,3 +662,4 @@
 193.163.125.225  # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP UDP group 263 | 1 blocks/24h | port 443
 65.49.1.10       # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 11 blocks/24h | ports 80,20118
 65.49.1.23       # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 80
+146.88.240.109   # 2026-11-06 | auto | AbuseIPDB 100%

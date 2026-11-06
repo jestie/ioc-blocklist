@@ -678,3 +678,5 @@
 87.236.176.14    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET SCAN MS Terminal Server Traffic on Non-standard Port | port 80
 195.96.139.24    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: HTTP Request line incomplete | port 80
 172.236.119.165  # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+199.165.159.119  # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 276 | port 443
+199.165.159.113  # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 276 | 9 blocks/24h | ports 443,10146

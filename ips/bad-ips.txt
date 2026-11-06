@@ -639,3 +639,4 @@
 23.92.26.21      # 2026-11-06 | auto | AbuseIPDB 100% | port 443
 192.155.90.118   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
 45.140.222.199   # 2026-11-06 | auto | AbuseIPDB 100%
+193.47.62.28     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443

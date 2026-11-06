@@ -718,3 +718,48 @@
 43.173.1.69      # 2026-11-06 | auto | AbuseIPDB 100% | port 80
 20.83.36.88      # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 35 | 4 blocks/24h | ports 37983,443
 216.25.124.24    # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+193.163.125.141  # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
+66.132.195.124   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+34.77.241.117    # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+192.155.88.231   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: (http_inspect) UNESCAPED SPACE IN HTTP URI | port 80
+35.210.123.92    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic TCP group 13 | ports 80,58384
+66.132.172.42    # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+134.122.21.161   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 197 | ports 443,80
+193.176.29.19    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 260 | port 80
+34.193.119.44    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 47 | ports 443,80
+92.118.39.86     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | port 80
+77.239.124.111   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 80
+172.105.196.91   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+66.175.212.77    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP UDP group 128 | port 443
+192.236.197.204  # 2026-11-06 | auto | AbuseIPDB 100% | ports 443,80
+192.42.116.43    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET TOR Known Tor Relay/Router (Not Exit) Node Traffic group 51 | ports 63256,15477,38887,51519
+199.165.159.32   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
+35.210.144.24    # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+66.132.195.199   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+40.76.224.85     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 65 | port 443
+188.240.59.37    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 252 | port 80
+192.42.116.102   # 2026-11-06 | auto | AbuseIPDB 100% | port 16119
+65.49.1.202      # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 80
+45.138.12.180    # 2026-11-06 | auto | AbuseIPDB 100%
+172.196.51.49    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+185.189.182.234  # 2026-11-06 | auto | AbuseIPDB 100%
+43.157.153.236   # 2026-11-06 | auto | AbuseIPDB 100%
+43.133.220.37    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+185.218.100.133  # 2026-11-06 | auto | AbuseIPDB 100% | ports 443,80
+170.106.152.218  # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+45.156.128.205   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+184.105.247.219  # 2026-11-06 | auto | AbuseIPDB 100%
+20.124.82.36     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 28 | port 443
+74.249.195.220   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 151 | port 80
+35.210.240.68    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic group 14 | port 443
+170.106.113.159  # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+43.130.72.40     # 2026-11-06 | auto | AbuseIPDB 100%
+207.175.85.46    # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+43.162.103.213   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+43.166.7.113     # 2026-11-06 | auto | AbuseIPDB 100%
+172.212.227.76   # 2026-11-06 | auto | AbuseIPDB 100%
+48.216.218.90    # 2026-11-06 | auto | AbuseIPDB 100%
+95.214.54.159    # 2026-11-06 | auto | AbuseIPDB 100%
+106.63.26.20     # 2026-11-06 | auto | AbuseIPDB 100%
+146.88.240.108   # 2026-11-06 | auto | AbuseIPDB 98%
+172.234.113.166  # 2026-11-06 | auto | AbuseIPDB 93%

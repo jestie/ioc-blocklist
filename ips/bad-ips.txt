@@ -665,3 +665,8 @@
 146.88.240.109   # 2026-11-06 | auto | AbuseIPDB 100%
 43.157.172.39    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
 192.236.202.11   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 259 | 11 blocks/24h | ports 80,55654
+45.79.8.221      # 2026-11-06 | auto | AbuseIPDB 100%
+35.210.137.117   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+95.214.53.157    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 177 | port 443
+45.56.79.53      # 2026-11-06 | auto | AbuseIPDB 100%
+35.206.133.206   # 2026-11-06 | auto | AbuseIPDB 100%

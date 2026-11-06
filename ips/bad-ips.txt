@@ -664,3 +664,4 @@
 65.49.1.23       # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 80
 146.88.240.109   # 2026-11-06 | auto | AbuseIPDB 100%
 43.157.172.39    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+192.236.202.11   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 259 | 11 blocks/24h | ports 80,55654

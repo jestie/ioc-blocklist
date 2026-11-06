@@ -648,3 +648,6 @@
 31.184.195.244   # 2026-11-06 | auto | AbuseIPDB 100%
 104.237.145.228  # 2026-11-06 | auto | AbuseIPDB 100% | port 443
 172.236.228.222  # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: (http_inspect) BARE BYTE UNICODE ENCODING | port 80
+87.236.176.127   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+45.55.151.3      # 2026-11-06 | auto | AbuseIPDB 100%
+159.65.219.252   # 2026-11-06 | auto | AbuseIPDB 100%

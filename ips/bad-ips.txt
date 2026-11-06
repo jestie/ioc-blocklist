@@ -692,3 +692,4 @@
 49.51.233.46     # 2026-11-06 | auto | AbuseIPDB 100%
 45.74.28.3       # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 6 | port 80
 27.123.7.187     # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+34.187.10.52     # 2026-11-06 | auto | AbuseIPDB 100% | port 80

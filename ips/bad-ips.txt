@@ -716,3 +716,4 @@
 77.67.26.252     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 141 | port 80
 74.235.99.105    # 2026-11-06 | auto | AbuseIPDB 100% | 1 blocks/24h | port 80
 43.173.1.69      # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+20.83.36.88      # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 35 | 4 blocks/24h | ports 37983,443

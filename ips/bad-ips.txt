@@ -635,3 +635,7 @@
 185.177.72.13    # 2026-10-25 | manual (Jay) | WebDev .env scanner, 428 hits 2026-10-24 (Wazuh 31151)
 45.144.212.192   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | 1 blocks/24h | ports 443,80
 91.92.40.12      # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 16 | 9 blocks/24h | ports 443,80
+170.106.163.84   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+23.92.26.21      # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+192.155.90.118   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+45.140.222.199   # 2026-11-06 | auto | AbuseIPDB 100%

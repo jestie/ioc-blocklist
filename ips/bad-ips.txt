@@ -683,3 +683,4 @@
 66.132.159.131   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: Applayer Mismatch protocol both directions | 3 blocks/24h | port 80
 66.132.224.20    # 2026-11-06 | auto | AbuseIPDB 100%
 138.197.15.3     # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+165.232.121.70   # 2026-11-06 | auto | AbuseIPDB 100% | port 443

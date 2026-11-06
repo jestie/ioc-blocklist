@@ -655,3 +655,4 @@
 45.33.14.197     # 2026-11-06 | auto | AbuseIPDB 100% | port 443
 172.105.128.13   # 2026-11-06 | auto | AbuseIPDB 100%
 64.62.197.131    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | 6 blocks/24h | ports 80,33184
+4.148.17.176     # 2026-11-06 | auto | AbuseIPDB 100% | port 80

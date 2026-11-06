@@ -641,3 +641,4 @@
 45.140.222.199   # 2026-11-06 | auto | AbuseIPDB 100%
 193.47.62.28     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Dshield Block Listed Source group 1 | port 443
 47.77.229.101    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 92 | 8 blocks/24h | ports 80,19016
+45.138.12.216    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 8 | port 443

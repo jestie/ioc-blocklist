@@ -658,3 +658,4 @@
 4.148.17.176     # 2026-11-06 | auto | AbuseIPDB 100% | port 80
 34.106.88.127    # 2026-11-06 | auto | AbuseIPDB 100%
 207.175.163.91   # 2026-11-06 | auto | AbuseIPDB 100%
+40.124.180.9     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 59 | 5 blocks/24h | ports 52281,443

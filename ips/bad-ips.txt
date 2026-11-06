@@ -677,3 +677,4 @@
 87.236.176.32    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
 87.236.176.14    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET SCAN MS Terminal Server Traffic on Non-standard Port | port 80
 195.96.139.24    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: HTTP Request line incomplete | port 80
+172.236.119.165  # 2026-11-06 | auto | AbuseIPDB 100% | port 443

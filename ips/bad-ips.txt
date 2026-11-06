@@ -689,3 +689,4 @@
 35.206.181.209   # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET COMPROMISED Known Compromised or Hostile Host Traffic group 13 | 20 blocks/24h | ports 80,23958
 5.187.38.30      # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 9 | 17 blocks/24h | ports 80,44776,45633
 4.150.202.44     # 2026-11-06 | auto | AbuseIPDB 100%
+49.51.233.46     # 2026-11-06 | auto | AbuseIPDB 100%

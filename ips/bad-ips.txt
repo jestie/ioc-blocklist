@@ -695,3 +695,16 @@
 34.187.10.52     # 2026-11-06 | auto | AbuseIPDB 100% | port 80
 4.249.17.236     # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 7 | 5 blocks/24h | ports 54199,80
 64.62.197.193    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: (http_inspect) MULTIPLE HOST HDRS DETECTED | port 80
+85.217.140.41    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET SCAN Suspicious User-Agent Containing Web Scan/er Likely Web Scanner | 5 blocks/24h | port 443
+109.205.8.122    # 2026-11-06 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 176 | 5 blocks/24h | ports 56511,80
+143.246.215.90   # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+109.105.210.97   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+35.206.150.95    # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+43.135.140.225   # 2026-11-06 | auto | AbuseIPDB 100%
+124.156.157.91   # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+150.40.126.53    # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+5.102.169.100    # 2026-11-06 | auto | AbuseIPDB 100% | ports 80,443
+35.206.177.162   # 2026-11-06 | auto | AbuseIPDB 100% | port 443
+35.210.253.105   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+77.239.124.121   # 2026-11-06 | auto | AbuseIPDB 100% | port 80
+35.210.114.224   # 2026-11-06 | auto | AbuseIPDB 100%

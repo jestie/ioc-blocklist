@@ -774,3 +774,4 @@
 71.6.232.30      # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 124 | 9 blocks/24h | ports 443,56237
 66.132.224.230   # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: HTTP missing Host header | 11 blocks/24h | port 80
 156.225.1.32     # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: OS-WINDOWS TCP window closed before receiving data | 15 blocks/24h | port 80
+35.210.227.34    # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 49 | 28 blocks/24h | port 443

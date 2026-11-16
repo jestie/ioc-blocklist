@@ -765,3 +765,9 @@
 172.234.113.166  # 2026-11-06 | auto | AbuseIPDB 93%
 35.206.173.187   # 2026-11-06 | auto | AbuseIPDB 97% | ports 80,443
 35.210.186.108   # 2026-11-06 | auto | AbuseIPDB 100%
+3.144.198.231    # 2026-11-16 | auto | AbuseIPDB 100% | port 443
+91.224.92.45     # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: ET DROP Spamhaus DROP Listed Traffic Inbound group 17 | 1 blocks/24h | port 80
+35.206.153.176   # 2026-11-16 | auto | AbuseIPDB 100% | port 443
+79.124.40.178    # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP group 132 | 7 blocks/24h | ports 443,46459
+52.146.13.252    # 2026-11-16 | auto | AbuseIPDB 100% | port 80
+178.128.84.112   # 2026-11-16 | auto | AbuseIPDB 100%

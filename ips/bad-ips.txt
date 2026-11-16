@@ -775,3 +775,4 @@
 66.132.224.230   # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: HTTP missing Host header | 11 blocks/24h | port 80
 156.225.1.32     # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: OS-WINDOWS TCP window closed before receiving data | 15 blocks/24h | port 80
 35.210.227.34    # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: ET CINS Active Threat Intelligence Poor Reputation IP TCP group 49 | 28 blocks/24h | port 443
+35.210.140.20    # 2026-11-16 | auto | AbuseIPDB 100% | Suricata: (http_inspect) BARE BYTE UNICODE ENCODING | 2 blocks/24h | port 80
